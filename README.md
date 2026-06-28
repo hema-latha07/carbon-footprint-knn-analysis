@@ -1,6 +1,7 @@
 This repository features a Carbon Footprint Analysis & Prediction project designed to analyze how daily habits and behavioral choices impact sustainable living. Using a primary dataset built entirely from scratch via crowdsourced survey responses, the project tracks key environmental indicators such as transit choices, home appliance usage, dietary habits, and consumer behaviors. 
 
 The core of the project focuses on an end-to-end data pipeline and machine learning workflow:
+
 Data Preprocessing: Standardized text inputs, handled missing values via mode imputation, and verified structural integrity using pandas.
 
 Encoding: Transformed categorical lifestyle and behavioral attributes into numerical formats using scikit-learn's LabelEncoder.  
